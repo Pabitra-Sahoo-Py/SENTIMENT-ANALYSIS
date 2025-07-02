@@ -34,7 +34,7 @@ Matplotlib & Seaborn – For data visualization
 NLTK / TextBlob / Scikit-learn – For text preprocessing and sentiment analysis
 
 ## Visualization & Dashboard
-
+![Dashboard](Screenshot 2025-06-30 114409.png)
 
 💡 Key Insights
 The majority of customer reviews were positive, indicating general customer satisfaction.
